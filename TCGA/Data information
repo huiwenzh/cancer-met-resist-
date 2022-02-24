@@ -25,3 +25,11 @@ PCPG - 178 primary tumour 3 solid tissue normal 2 metastatic
 PRAD - 498 primary tumour 52 solid tissue normal 1 metastatic
 READ - 166 primary tumour 10 solid tissue normal 1 recurrent 
 SARC - 259 primary tumour 2 solid tissue normal 3 recurrent 1 metastatic
+SKCM - 103 primary tumour 1 solid tissue normal 367 metastatic 1 additional metastatic
+STAD - 375 primary tumour 32 solid tissue normal
+TGCT - 150 primary tumour 
+THCA - 502 primary tumour 58 solid tissue normal 8 metastatic 
+THYM - 56 primary tumour  
+UCEC - 119 primary tumour 2 solid tissue normal
+UCS - 56 primary tumour
+UVM - 80 primary tumour
