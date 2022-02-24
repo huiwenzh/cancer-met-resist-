@@ -1,0 +1,27 @@
+Metadata for TCGA hg38 mapping RNA-seq data, with number of data in each category
+ACC - only primary tumour 
+BLCA - 414 primary tumour 19 solid tissue normal
+BRCA - 1102 primary tumoir 113 solid tissue normal 7 metastatic 
+CESC - 304 primary tumour 3 solid tissue normal 2 metastatic
+CHOL - 36 primary tumour 9 solid tissue normal
+COADREAD - 36 primary tumour 9 solid tissue normal
+COAD - 41 primary tumour 41 solid tissue normal 1 reccurrent 1 metastatic 
+DLBC - 48 primary tumour
+ESCA - 161 primary tumour 11 solid tissue normal 1 metastatic
+GBM - 156 primary tumour 5 solid tissue normal 13 recurrent 
+HNSC - 500 primary tumour 44 solid tissue normal 2 metastatic
+KICH - 65 primary tumour 24 solid tissue normal 
+KIRC - 538 primary tumour 72 solid tissue normal
+KIRP - 299 primary tumour 21 solid tissue normal
+LAML - 151 Primary Blood Derived Cancer - Peripheral Blood 
+LGG - 511 primary tumour 18 recurrent tumour
+LIHC - 371 primary tumour 50 solid tissue normal 3 recurrent  
+LUAD - 533 primary tumour 59 solid tissue normal 2 recurrent 
+LUSC - 502 primary tumour 49 solid tissue normal
+MESO - 86 primary tumour
+OV - 372 primary tumour 5 recurrent tumour 
+PAAD - 177 primary tumour 4 solid tissue normal 1 metastatic
+PCPG - 178 primary tumour 3 solid tissue normal 2 metastatic 
+PRAD - 498 primary tumour 52 solid tissue normal 1 metastatic
+READ - 166 primary tumour 10 solid tissue normal 1 recurrent 
+SARC - 259 primary tumour 2 solid tissue normal 3 recurrent 1 metastatic
